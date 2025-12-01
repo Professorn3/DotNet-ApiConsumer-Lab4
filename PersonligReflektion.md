@@ -13,3 +13,9 @@ Vad jag har lärt mig:
     Ordning och reda: Den största utmaningen var att dela upp koden i olika filer. Detta ledde till fel när klasser definierades dubbelt. Det var en bra påminnelse om hur viktigt det är att ha en ren och logisk filstruktur i stora projekt.
 
 Sammanfattningsvis känner jag att jag nu har en stabil grund i hur man integrerar och hanterar riktig data från webben, vilket är en grundläggande färdighet.
+
+Den här SQL-kursen har verkligen överträffat mina förväntningar. Jag vill verkligen lyfta fram hur otroligt intressant det har blivit att använda SQL och lära mig grunderna i databashantering. Det som tidigare kändes som en ren teknisk skyldighet har nu blivit ett av de mest lärorika områdena jag har stött på. Jag har fått en djupare förståelse för hur man effektivt hanterar och strukturerar data.
+
+En del som jag tyckte var särskilt engagerande var att lära mig om optimering av sökfrågor. Det var fascinerande att se hur man kan formulera frågor som inte bara ger rätt svar, utan som också är supersnabba genom att använda index och analysera exekveringsplaner. Dessutom tyckte jag att avsnitten om databasdesign och normalisering var mycket givande. Att förstå hur man bygger en databas från grunden för att säkerställa dataintegritet och undvika onödig upprepning av information (redundans) känns som en helt avgörande färdighet.
+
+Det mest betydelsefulla är hur jag direkt har kunnat tillämpa dessa kunskaper i praktiken. Jag har faktiskt använt det jag lärt mig för att skapa en databas för min egen personliga e-handel som jag driver. Dessutom har jag kunnat använda SQL i flera andra projekt jag jobbar med på min hemmaserver. Kursen har på så sätt inte bara gett mig teori, utan också verktygen att verkligen genomföra egna tekniska lösningar.
